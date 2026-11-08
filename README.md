@@ -1,5 +1,3 @@
-# RoomPulse
-contactless vital-sign monitoring application 
 # RoomPulse AI — The Invisible Health Guardian
 
 **BioHack 2026 · Vitals, No Wearable.** Contactless heart rate (rPPG) and experimental respiration from an ordinary webcam, with a transparent TrustScore that withholds any reading it cannot support.
